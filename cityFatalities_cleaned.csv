@@ -1,0 +1,38 @@
+City,Population,Traffic_Fatalities,Traffic_Fatality_Rate
+"New York, NY","8,335,897",238,2.86
+"Los Angeles, CA","3,822,238",354,9.26
+"Chicago, IL","2,665,039",192,7.2
+"Houston, TX","2,302,878",323,14.03
+"Phoenix, AZ","1,644,409",311,18.91
+"Philadelphia, PA","1,567,258",142,9.06
+"San Antonio, TX","1,472,909",203,13.78
+"San Diego, CA","1,381,162",118,8.54
+"Dallas, TX","1,299,544",228,17.54
+"Austin, TX","974,447",119,12.21
+"Jacksonville, FL","971,319",149,15.34
+"San Jose, CA","971,233",63,6.49
+"Fort Worth, TX","956,709",121,12.65
+"Columbus, OH","907,971",93,10.24
+"Charlotte, NC","897,720",102,11.36
+"Indianapolis, IN","880,621",134,15.22
+"San Francisco, CA","808,437",42,5.2
+"Seattle, WA","749,256",39,5.21
+"Denver, CO","713,252",74,10.38
+"Oklahoma City, OK","694,800",88,12.67
+"Nashville, TN","683,622",112,16.38
+"El Paso, TX","677,456",71,10.48
+"Washington, DC","671,803",32,4.76
+"Las Vegas, NV","656,274",51,7.77
+"Boston, MA","650,706",24,3.69
+"Portland, OR","635,067",62,9.76
+"Louisville, KY","624,444",119,19.06
+"Memphis, TN","621,056",228,36.71
+"Detroit, MI","620,376",121,19.5
+"Baltimore, MD","569,931",46,8.07
+"Milwaukee, WI","563,305",85,15.09
+"Albuquerque, NM","561,008",101,18.0
+"Tucson, AZ","546,574",142,25.98
+"Fresno, CA","545,567",65,11.91
+"Sacramento, CA","528,001",77,14.58
+"Mesa, AZ","512,498",66,12.88
+"Kansas City, MO","509,297",86,16.89
